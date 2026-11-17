@@ -28,7 +28,25 @@ I believe that progress isn't about being perfect — it's about being better th
 
 🚀 Stay curious. Keep learning. Keep building. Never stop growing.
 
-<h2>🤝 Let's Connect</h2> <p align="left"> <a href="https://github.com/diponkor-sinha" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/> </a> <a href="https://linkedin.com/in/diponkor-sinha" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/> </a> <a href="https://twitter.com/diponkor_sinha" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45"/> </a> </p>
+<h2>🤝 Let's Connect</h2>
+
+<p align="left">
+  <a href="https://github.com/diponkor-sinha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  </a>
+
+  <a href="https://linkedin.com/in/diponkor-sinha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+  </a>
+
+  <a href="https://twitter.com/diponkor_sinha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45"/>
+  </a>
+
+  <a href="https://leetcode.com/u/diponkor_sinha/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="45" height="45"/>
+  </a>
+</p>
 
 📫 Email: diponkorsinha@protonmail.com
 
