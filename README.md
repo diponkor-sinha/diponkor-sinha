@@ -8,11 +8,11 @@ I enjoy learning how things work, experimenting with new ideas and turning what 
 
 <h2>🚀 What I'm Currently Doing</h2>
 
-🐍 Learning and strengthening my Python fundamentals
-🧠 Improving my problem-solving and programming skills
-💻 Exploring new modern technologies
-🛠️ Building small projects to turn knowledge into practice
-📚 Continuously learning new technologies and concepts
+- Learning and strengthening my Python fundamentals
+- Improving my problem-solving and programming skills
+- Exploring new modern technologies
+- Building small projects to turn knowledge into practice
+- Continuously learning new technologies and concepts
 
 <h2>🛠️ Languages & Tools</h2> <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45"/> </a> <a href="https://zapier.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="45" height="45"/> </a> <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="45" height="45"/> </a> </p> <h2>🌱 My Learning Journey</h2>
 
