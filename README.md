@@ -48,7 +48,7 @@ I believe that progress isn't about being perfect — it's about being better th
   </a>
 </p>
 
-📫 Email: diponkorsinha@protonmail.com / hello@diponkor.online
+📫 Email: diponkorsinha@protonmail.com   //   hello@diponkor.online
 
 <h2>💭 A Little About Me</h2>
 
